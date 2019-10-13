@@ -1,0 +1,5 @@
+Make a list of dynamic parts of the application. Can you predict any problems with the dynamic pieces?
+
+- Number of active tasks will be dynamic
+- Number of completed tasks will be dynamic
+- Problems I can predict: Users can't see all their active or completed tasks currently. I don't know how to provide an option to see the full list of active or completed tasks (yet).
