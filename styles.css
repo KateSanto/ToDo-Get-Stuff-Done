@@ -1,3 +1,14 @@
 body {
     background-color: coral;
 }
+
+.container {
+background-color: cornsilk;
+}
+
+.row {
+    background-color: gold;
+}
+.green {
+    background-color: darkgreen;
+}
